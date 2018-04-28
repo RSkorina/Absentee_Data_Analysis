@@ -1,0 +1,13 @@
+Goal 1: finish deliverables (due Tuesday):
+    DONE
+      # Finish Research question and Initial plan in answering it
+      # Finish identification of sources and rationale
+    TODO
+      # create data cleaning plan.
+
+      # Visualize the overall data
+
+      # Create a seperate document that sumurizes how we colaberated
+        on the project.
+
+      
